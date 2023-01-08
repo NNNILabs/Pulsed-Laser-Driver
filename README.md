@@ -21,8 +21,10 @@ Apparently pulsed laser drivers cost upwards of several tens of thousands of Eur
 - The choice of LT1193 was arbitrary - there are op-amps available that are better suited to the task, but I wanted an excuse to use the LT1193 because of its unique inputs which enable it to Kelvin-sense the input signal and feedback from the shunt. 
 - Infographic highlighting the effect of changes in element values in the compensation network (this would probably be more intuitive in the frequency domain):
 ![Infographic](https://github.com/NNNILabs/Pulsed-Laser-Driver/blob/main/Resources/compensation.png)
-- Rist time measurements in LTspice of initial simulation:
+- Rise time measurements in LTspice of initial simulation:
 ![Infographic](https://github.com/NNNILabs/Pulsed-Laser-Driver/blob/main/Resources/risetime.PNG)
+- Rise time measurement with GaN FET (GS66502):
+![Infographic](https://github.com/NNNILabs/Pulsed-Laser-Driver/blob/main/Resources/risetime2.png)
 ## Links
 - https://x.artofelectronics.net/
   - pg. 193 3x.5 "MOSFETs as Linear Transistors"
