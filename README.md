@@ -4,6 +4,10 @@ A good friend of mine was talking about his work at the Solid State Physics lab 
 ## Project Motivation
 Apparently pulsed laser drivers cost upwards of several tens of thousands of Euros, so being able to come up with a a solution (that will probably be orders of magnitude cheaper) would be a much welcome break to the Lab's budget. Since the requirements were not particularly challenging (~250V, 5A, 1us pulses), I decided it would be feasible to try making a pulsed current sink.
 ## Usage
+### Specifications [temp: as promised]:
+- 25ns rise/fall times
+- 5A peak current
+- 250V diode voltage
 [under construction]
 ## List of Files
 - Resources: Infographics
