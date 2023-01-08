@@ -15,7 +15,8 @@ Apparently pulsed laser drivers cost upwards of several tens of thousands of Eur
 ## Notes
 - Laser diodes usually operate comfortably with tens of volts across them. However, this UVC laser has a much higher resistance because of the way the bond wires are attached to the die, hence needing a much higher voltage across it to push the required current through it. 
 - The choice of LT1193 was arbitrary - there are op-amps available that are better suited to the task, but I wanted an excuse to use the LT1193 because of its unique inputs which enable it to Kelvin-sense the input signal and feedback from the shunt. 
-- Infographic highlighting the effect of changes in element values in the compensation network:
+- Infographic highlighting the effect of changes in element values in the compensation network (this would probably be more intuitive in the frequency domain):
+![Infographic](https://github.com/NNNILabs/Pulsed-Laser-Driver/blob/main/Resources/compensation.png)
 ## Links
 - https://x.artofelectronics.net/
 - https://www.analog.com/media/en/technical-documentation/data-sheets/1193fb.pdf
