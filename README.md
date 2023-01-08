@@ -32,3 +32,4 @@ Apparently pulsed laser drivers cost upwards of several tens of thousands of Eur
   - pg. 386 4x.26 "Nodal Loop Analysis: MOSFET Current Source"
 - https://www.analog.com/media/en/technical-documentation/data-sheets/1193fb.pdf
 - https://www.analog.com/media/en/technical-documentation/application-notes/an133f.pdf
+- https://gansystems.com/wp-content/uploads/2020/04/GS66502B-DS-Rev-200402.pdf
