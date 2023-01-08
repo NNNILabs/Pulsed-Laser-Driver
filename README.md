@@ -25,5 +25,8 @@ Apparently pulsed laser drivers cost upwards of several tens of thousands of Eur
 ![Infographic](https://github.com/NNNILabs/Pulsed-Laser-Driver/blob/main/Resources/risetime.PNG)
 ## Links
 - https://x.artofelectronics.net/
+  - pg. 193 3x.5 "MOSFETs as Linear Transistors"
+  - pg. 206 3x.7 "Bandwidth of the Cascode; BJT versus FET"
+  - pg. 386 4x.26 "Nodal Loop Analysis: MOSFET Current Source"
 - https://www.analog.com/media/en/technical-documentation/data-sheets/1193fb.pdf
 - https://www.analog.com/media/en/technical-documentation/application-notes/an133f.pdf
