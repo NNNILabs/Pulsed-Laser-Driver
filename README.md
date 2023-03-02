@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-__ Power uncorrupted. __ w.r., J. Williams
+**Power uncorrupted.** w.r., J. Williams
 </p>
 
 ## Introduction
