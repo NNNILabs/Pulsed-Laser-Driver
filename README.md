@@ -1,11 +1,11 @@
 # Pulsed Laser Driver
 
 <p align="center">
-    <img width="200" src="https://github.com/NNNILabs/Pulsed-Laser-Driver/blob/main/Resources/Output.png">
+    <img src="https://github.com/NNNILabs/Pulsed-Laser-Driver/blob/main/Resources/Output.png">
 </p>
 
 <p align="center">
-Power uncorrupted. w.r., J. Williams
+**Power uncorrupted.** w.r., J. Williams
 </p>
 
 ## Introduction
