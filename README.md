@@ -17,10 +17,11 @@ Apparently pulsed laser drivers cost upwards of several tens of thousands of Eur
 - 25ns rise/fall times
 - 5A peak current
 - 250V diode voltage
-[under construction]
 ## List of Files
-- Resources: Infographics
-- Hardware: KiCAD PCB files
+- Resources: 
+  - Infographics
+- Hardware: 
+  - KiCAD PCB files
 - Software:
   - Simulation: LTspice .asc file, libraries
 ## Application Examples
