@@ -1,4 +1,13 @@
 # Pulsed Laser Driver
+
+<p align="center">
+    <img width="200" src="https://github.com/NNNILabs/Pulsed-Laser-Driver/blob/main/Resources/Output.png">
+</p>
+
+<p align="center">
+Power uncorrupted. w.r., J. Williams
+</p>
+
 ## Introduction
 A good friend of mine was talking about his work at the Solid State Physics lab at TU Berlin. They are currently trying to build upon the work of Japanese researchers regarding UVC lasers. These lasers need short, sharp (that was an English adjective, in EE speak it's "fast rise time") current pulses to be properly evaluated. With The Art of Electronics: The X Chapters by my side, I decided to take this project up, and boy, was it worth it. 
 ## Project Motivation
