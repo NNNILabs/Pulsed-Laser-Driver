@@ -5,7 +5,11 @@
 </p>
 
 <p align="center">
-<b>Power uncorrupted.</b> -J. Williams
+    <b>Power uncorrupted.</b> -J. Williams
+</p>
+
+<p align="center">
+[Placeholder for a hopefully impressive scope capture]
 </p>
 
 ## Introduction
