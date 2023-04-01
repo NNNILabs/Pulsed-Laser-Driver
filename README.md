@@ -1,7 +1,7 @@
 # Pulsed Laser Driver
 
 <p align="center">
-    <img src="https://github.com/NNNILabs/Pulsed-Laser-Driver/blob/main/Resources/Output.png">
+    <img src="https://github.com/NNNILabs/Pulsed-Laser-Driver/blob/main/Resources/BW.png">
 </p>
 
 <p align="center">
