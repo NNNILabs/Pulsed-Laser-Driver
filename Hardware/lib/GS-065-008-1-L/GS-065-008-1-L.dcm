@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GS-065-008-1-L
+D 650V, 8A, Enhancement mode GaN Transistor, 5x6 PDFN, Bottom-side cooled
+K
+F https://gansystems.com/wp-content/uploads/2021/12/GS-065-008-1-L-DS-Rev-210104.pdf
+$ENDCMP
+#
+#End Doc Library

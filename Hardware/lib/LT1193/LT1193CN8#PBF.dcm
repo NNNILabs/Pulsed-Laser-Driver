@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LT1193CN8#PBF
+D LT1193CN8#PBF, Video Amplifier, 8-Pin PDIP N
+K
+F http://cds.linear.com/docs/en/datasheet/1193fb.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ADA4891")(type "KiCad")(uri "${KIPRJMOD}/lib/ADA4891/ADA4891.pretty")(options "")(descr ""))
+  (lib (name "GS-065-008-1-L")(type "KiCad")(uri "${KIPRJMOD}/lib/GS-065-008-1-L")(options "")(descr ""))
+  (lib (name "LT1193")(type "KiCad")(uri "${KIPRJMOD}/lib/LT1193")(options "")(descr ""))
+)

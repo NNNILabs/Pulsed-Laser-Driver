@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "GS-065-008-1-L")(type "Legacy")(uri "${KIPRJMOD}/lib/GS-065-008-1-L/GS-065-008-1-L.lib")(options "")(descr ""))
+  (lib (name "LT1193CN8#PBF")(type "Legacy")(uri "${KIPRJMOD}/lib/LT1193/LT1193CN8#PBF.lib")(options "")(descr ""))
+)
